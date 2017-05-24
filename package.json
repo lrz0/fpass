@@ -1,0 +1,22 @@
+{
+  "name": "fpass",
+  "version": "0.1.0",
+  "description": "An implementation of FlowerPassword password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lrz0/fpass.git"
+  },
+  "keywords": [
+    "password",
+    "security"
+  ],
+  "author": "Li Runze <me@lirunze.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "element-ui": "^1.3.4"
+  }
+}
